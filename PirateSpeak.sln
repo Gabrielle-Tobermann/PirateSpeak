@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PirateSpeak", "PirateSpeak\PirateSpeak.csproj", "{035F8A0C-DDED-436F-BC5C-D046EBA19709}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PirateSpeak.Tests", "PirateSpeak.Tests\PirateSpeak.Tests.csproj", "{5FFE56FA-DBB1-4AAC-912A-702D624EF51F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{035F8A0C-DDED-436F-BC5C-D046EBA19709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035F8A0C-DDED-436F-BC5C-D046EBA19709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035F8A0C-DDED-436F-BC5C-D046EBA19709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035F8A0C-DDED-436F-BC5C-D046EBA19709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FFE56FA-DBB1-4AAC-912A-702D624EF51F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FFE56FA-DBB1-4AAC-912A-702D624EF51F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FFE56FA-DBB1-4AAC-912A-702D624EF51F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FFE56FA-DBB1-4AAC-912A-702D624EF51F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD045DF8-2992-4AB9-BB78-EAB24E79785D}
+	EndGlobalSection
+EndGlobal
