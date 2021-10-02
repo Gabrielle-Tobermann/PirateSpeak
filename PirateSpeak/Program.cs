@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace PirateSpeak
 {
@@ -6,7 +7,9 @@ namespace PirateSpeak
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var decipher = new DecipherPirates();
+
+            decipher.GetPossibleWords("nlad", new List<string>() { "land", "lands", "landed" });
         }
     }
 }

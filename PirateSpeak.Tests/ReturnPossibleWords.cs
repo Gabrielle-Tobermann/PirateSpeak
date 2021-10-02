@@ -18,7 +18,7 @@ namespace PirateSpeak.Tests
                 new object[]
                 {
                     "ortp",
-                    new List<string> { "sport", "parrot", "ports", "matey" },
+                    new List<string> { "sport", "parrot", "port", "matey" },
                     new List<string> {"port"}
                 }
             };
